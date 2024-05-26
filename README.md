@@ -46,15 +46,19 @@
              <p>
                     2016-2019
                 </p>
-                 <p> Delhi institute of Information technology 
-                 </p>
+                 <p>  
+Delhi institute of Information technology 
+                <p>
+
+               2022-2023
+             </p>
                
-                </p>
-                <p> 
-                    2022-2023   
-                  </p>
+                
+          
+                 
+         
                    
-            </section>            
+    </section>            
         </article>
         <article id="mainRight">
             <section>
