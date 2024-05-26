@@ -1,7 +1,7 @@
 <html>
 <head>
     <link href="style.css" rel="stylesheet">
-    <title>Upasana koul</title>
+    <Cv>Upasana koul</CV>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 </head>
 
@@ -10,7 +10,7 @@
         <!-- resume header with your name and title -->
         <h1>Upasana koul</h1>
         <hr>
-        YOUR TITLE
+        CV
         <hr>
     </header>
     <main>
