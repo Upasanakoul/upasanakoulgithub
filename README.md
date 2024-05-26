@@ -52,13 +52,8 @@ Delhi institute of Information technology
 
                2022-2023
              </p>
-               
-                
-          
-                 
-         
-                   
-    </section>            
+               <p>
+             </section>            
         </article>
         <article id="mainRight">
             <section>
