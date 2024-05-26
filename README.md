@@ -42,12 +42,13 @@
                 <h3>B.A in Applied Psychology</h3> 
                  <h3>Advance diploma in Computer Application</h3>
                 <p>
-                    Galgotias University 
+                    Galgotias University  
+             <p>
+                    2016-2019
                 </p>
                  <p> Delhi institute of Information technology 
                  </p>
-                <p>
-                    2016-2019
+               
                 </p>
                 <p> 
                     2022-2023  
