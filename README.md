@@ -8,7 +8,7 @@
 <body>
     <header id="header">
         <!-- resume header with your name and title -->
-        <h1>Upasana koulE</h1>
+        <h1>Upasana koul</h1>
         <hr>
         YOUR TITLE
         <hr>
