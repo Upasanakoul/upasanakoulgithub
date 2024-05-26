@@ -70,11 +70,9 @@
                 <p>
                    In hamari Pachchan NGO, I learned various skills and gained valuable experiences. Some highlights of what you learned might include:Effective communication and collaboration with diverse teams and stakeholders.Project management and coordination to execute initiatives successfully.Advocacy and community engagement strategies to promote social causes and initiatives effectively.
                 </p>
-                <ul>
+               
                    
-                </ul>
-            </section>
-        </article>
-    </main>
+               
+     
 </body>
 </html>
