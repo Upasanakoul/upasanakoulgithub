@@ -62,11 +62,7 @@
                         Hamari pahchan| 2024 - 2024
                 </p>
                 <p>
-                   In this role, I developed responsive and dynamic web applications, collaborated with cross-functional teams to meet project requirements, and implemented efficient code practices for optimal performance. Highlights include:
-
-- Developing responsive and dynamic web applications.
-- Collaborating with cross-functional teams to meet project requirements.
-- Implementing efficient code practices for optimal performance.
+                   In hamari Pachchan NGO, I learned various skills and gained valuable experiences. Some highlights of what you learned might include:Effective communication and collaboration with diverse teams and stakeholders.Project management and coordination to execute initiatives successfully.Advocacy and community engagement strategies to promote social causes and initiatives effectively.
                 </p>
                 <ul>
                         <li>Cool accomplishment</li>
