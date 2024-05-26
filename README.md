@@ -8,7 +8,7 @@
 <body>
     <header id="header">
         <!-- resume header with your name and title -->
-        <h1>YOUR NAME</h1>
+        <h1>Upasana koulE</h1>
         <hr>
         YOUR TITLE
         <hr>
@@ -20,15 +20,15 @@
                 <!-- contact info including social media -->
                 <p>
                     <i class="fa fa-envelope" aria-hidden="true"></i>
-                    <a href="mailto:your-email@example.com">your-email@example.com</a>
+                    <a href="mailto: koulupasana43@gmail.com">koulupasana43@gmail.com</a>
                 </p>
                 <p>
                     <i class="fab fa-github" aria-hidden="true"></i>
-                    <a href="github.com/gh-username">gh-username</a>
+                    <a href="github.com/gh-Upasanakoulgithub">gh-Upasanakoulgithub</a>
                 </p>
                 <p>
                     <i class="fab fa-linkedin" aria-hidden="true"></i>
-                    <a href="linkedin.com/linkedin-username">linkedin-username</a>
+                    <a href="linkedin.com/Upasana koul">Upasana koul</a>
                 </p>
             </section>
             <section>
@@ -39,12 +39,12 @@
             <section>
                 <h2>EDUCATION</h2>
                 <!-- your education -->
-                <h3>YOUR MAJOR</h3>
+                <h3>B.A in Applied Psychology</h3>
                 <p>
-                    Your university or school
+                    Galgotias University 
                 </p>
                 <p>
-                    2018-2022
+                    2016-2019
                 </p>
             </section>            
         </article>
@@ -52,17 +52,21 @@
             <section>
                 <h2>ABOUT</h2>
                 <!-- about you -->
-                <p>A brief paragraph about you and what kind of company you want to work for.</p>
+                <p>I am a graduate with a Bachelor of Psychology and an Advanced Diploma in Computer Applications. I am passionate about combining my understanding of human behavior with technology to create innovative solutions </p>
             </section>
             <section>
                 <h2>WORK EXPERIENCE</h2>
-                <!-- your work experience -->
-                <h3>JOB TITLE</h3>
+                <!-- Participated in a NGO   focused on skill development for the underprivileged -->
+                <h3>Social Entrepreneurship</h3>
                 <p>
-                        Company Name | 2008 - 2010
+                        Hamari pahchan| 2024 - 2024
                 </p>
                 <p>
-                        Describe what you did in this position with one summary sentence and no more than 3 bullet points with specific highlights
+                   In this role, I developed responsive and dynamic web applications, collaborated with cross-functional teams to meet project requirements, and implemented efficient code practices for optimal performance. Highlights include:
+
+- Developing responsive and dynamic web applications.
+- Collaborating with cross-functional teams to meet project requirements.
+- Implementing efficient code practices for optimal performance.
                 </p>
                 <ul>
                         <li>Cool accomplishment</li>
