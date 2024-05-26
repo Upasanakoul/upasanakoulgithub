@@ -52,8 +52,6 @@ p>
              <p>
                     2022-2023
                 </p>
-                 <p>  
-
              </section>            
         </article>
         <article id="mainRight">
