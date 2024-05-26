@@ -47,7 +47,7 @@
                     2016-2019
                 </p>
                  <p>  
-p>
+
                     Delhi institute of Information technology 
              <p>
                     2022-2023
